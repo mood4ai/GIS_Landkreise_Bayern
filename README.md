@@ -4,3 +4,5 @@ Georeferenzierung spielt eine große Rolle in der öffentlich Verwaltung, so hab
 
 Das Projekt sollte ein Beispiel liefern wie man Fachdaten mit Hilfe von Shape-Dateien präsentieren kann.
 
+![grafik](https://user-images.githubusercontent.com/66714895/103216096-79b55580-4915-11eb-8096-dcfa8e4d5ba2.png)
+
